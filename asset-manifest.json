@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/deepnet/static/css/main.6d0a5abd.chunk.css",
+    "main.js": "/deepnet/static/js/main.fa9b3b0b.chunk.js",
+    "main.js.map": "/deepnet/static/js/main.fa9b3b0b.chunk.js.map",
+    "runtime-main.js": "/deepnet/static/js/runtime-main.a575ff7c.js",
+    "runtime-main.js.map": "/deepnet/static/js/runtime-main.a575ff7c.js.map",
+    "static/css/2.58a45539.chunk.css": "/deepnet/static/css/2.58a45539.chunk.css",
+    "static/js/2.1b7ef01a.chunk.js": "/deepnet/static/js/2.1b7ef01a.chunk.js",
+    "static/js/2.1b7ef01a.chunk.js.map": "/deepnet/static/js/2.1b7ef01a.chunk.js.map",
+    "index.html": "/deepnet/index.html",
+    "static/css/2.58a45539.chunk.css.map": "/deepnet/static/css/2.58a45539.chunk.css.map",
+    "static/css/main.6d0a5abd.chunk.css.map": "/deepnet/static/css/main.6d0a5abd.chunk.css.map",
+    "static/js/2.1b7ef01a.chunk.js.LICENSE.txt": "/deepnet/static/js/2.1b7ef01a.chunk.js.LICENSE.txt",
+    "static/media/image2.48eef8fc.png": "/deepnet/static/media/image2.48eef8fc.png",
+    "static/media/image4.aed05324.png": "/deepnet/static/media/image4.aed05324.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a575ff7c.js",
+    "static/css/2.58a45539.chunk.css",
+    "static/js/2.1b7ef01a.chunk.js",
+    "static/css/main.6d0a5abd.chunk.css",
+    "static/js/main.fa9b3b0b.chunk.js"
+  ]
+}
